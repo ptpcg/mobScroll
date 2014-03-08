@@ -5,11 +5,9 @@ Simple &amp; smooth page-scrolling.
 
 =====Usage=======
 
-Include jQuery:
-<script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.js" type=""></script>
+Include jQuery
 
-Include mobScroll:
-<script src="mScroll.js" type="text/javascript"></script>    
+Include mobScroll
 
 Make sure to set your jQuery.noConflict() var
 
