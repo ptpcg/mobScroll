@@ -5,21 +5,24 @@ Simple &amp; smooth page-scrolling.
 
 =====Usage=======
 
-Include jQuery
+<strong>Include jQuery</strong><br />
 
-Include mobScroll
 
-Make sure to set your jQuery.noConflict() var
+<strong>Include mobScroll</strong><br />
 
-I like to use:
+<p>
+Make sure to set your jQuery.noConflict():<br>
+I like to use:<br />
 var $jQ = jQuery.noCoonflict();
-
-Attach to your navigation element:
-var mobScroll = new mobScroll('#navigation-element-id');
-
+</p>
+<p>
+Attach to your navigation element:<br />
+var mobScroll = new mobScroll('#navigation-element-id');<br />
 Attach to Additional buttons progromattically(Out side of navigation element):
    $jQ('#learn-btn').click(function(){
        mobScroll.go2('#mobile-services');
    });
+</p>
+
 
 Super simple.
