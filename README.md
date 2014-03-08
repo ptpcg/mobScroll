@@ -14,7 +14,7 @@ Include mobScroll:
 Make sure to set your jQuery.noConflict() var
 
 I like to use:
-var $jQ = jQuery.noCOonflict();
+var $jQ = jQuery.noCoonflict();
 
 Attach to your navigation element:
 var mobScroll = new mobScroll('#navigation-element-id');
