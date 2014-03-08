@@ -5,6 +5,7 @@ Simple &amp; smooth page-scrolling.
 
 =====Usage=======
 
+<code>
 Include jQuery:
 <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.10.2/jquery.js" type=""></script>
 
